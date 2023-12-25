@@ -201,5 +201,85 @@ header{
     padding-top: 30px;
 }
 
+  .container {
+    width: 1000px;
+    padding: 0 auto;
+    margin: 0 auto;
+    /* border: 1px solid black; */
+  }
+  .Product {
+    text-align: center;
+    align-items: center;
+  }
+  #category ul {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    justify-content: center;
+    cursor: pointer;
+    font-family: 'Cerebri Sans Pro' sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+      color: #999999;
+      padding-top: 20px;
+  }
+  #Oranges{
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      padding: 20px 10px 30px ; 
+      margin: 0 auto;    
+  }
+  #imgProduct {
+      width: 25%;
+      height: auto;
+  }
+  #imgProduct {
+      text-align: center;
+  }
+  
+   
+  #from{
+      text-align: center;
+      padding-top: 50px;
+      margin: 25px;
+      padding:15px;
+  }
+  
+  #calendar{
+      display: flex;
+      gap: 1rem; 
+      margin-left: 0.8rem;
+      padding-top: 10px;
+  }
+  
+  #Rectangle{
+      display: flex;
+      justify-content: center;
+  
+  }
+  .today_black{
+      flex-direction: column;
+  }
+  
+          
+  #bbemaaa {
+      width: 300px;
+      margin-left: 0.8rem;
+  }
+  #eat{
+      margin: 15px;
+  }
+      
+  #eat p{
+      color: #757575;
+  
+  }
+  
+  
+  
+  
+  
 
 
